@@ -32,7 +32,7 @@ export default class Home extends Component {
                       </p>
                     </div>
                     <div className="col-md-4">
-                      <div className="thumbnails float-right">Image</div>
+                      <img className="thumbnails float-right" alt="Image News"/>
                     </div>
                   </div>
                 </div>
@@ -63,7 +63,7 @@ export default class Home extends Component {
                       </p>
                     </div>
                     <div className="col-md-4">
-                      <div className="thumbnails float-right">Image</div>
+                    <img className="thumbnails float-right" alt="Image News" />
                     </div>
                   </div>
                 </div>
@@ -94,7 +94,7 @@ export default class Home extends Component {
                       </p>
                     </div>
                     <div className="col-md-4">
-                      <div className="thumbnails float-right">Image</div>
+                    <img className="thumbnails float-right" alt="Image News" />
                     </div>
                   </div>
                 </div>
@@ -125,7 +125,7 @@ export default class Home extends Component {
                       </p>
                     </div>
                     <div className="col-md-4">
-                      <div className="thumbnails float-right">Image</div>
+                    <img className="thumbnails float-right" alt="Image News" />
                     </div>
                   </div>
                 </div>
