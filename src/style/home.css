@@ -1,0 +1,29 @@
+.thumbnails{
+    background-color: dimgray;
+    height: 120px;
+    width: 120px;
+}
+
+main{
+    margin: 15px;
+    
+}
+
+.content{
+    background-color: ghostwhite;
+    height: 150px;
+    width: 150px;
+}
+
+.card-content{
+    width: 18rem;
+}
+
+.card-content{
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.date-content{
+    font-size: 12px;
+}
